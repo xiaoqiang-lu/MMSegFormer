@@ -3,4 +3,4 @@ MMSegFormer: Simple and Efficient Fusion Design for Multimodal Image Segmentatio
 
 Xiaoqiang Lu, Lingling Li, Licheng Jiao, Fang Liu, Wenping Ma, Xu Liu, Yuting Yang, Shuyuan Yang
 
-This Repository Will Contain Several Advanced Multimodal Image Segmentation Methods, Coming Soon.
+This repository will contain several advanced multimodal image segmentation methods, coming soon.
